@@ -1,0 +1,139 @@
+
+2018-01-08 08:08:14 Commons Daemon procrun stderr initialized
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.36
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 9 2016 13:55:50 UTC
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.36.0
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_102
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_102-b14
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Program Files\Apache Software Foundation\Tomcat 8.0
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\Apache Software Foundation\Tomcat 8.0
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\Apache Software Foundation\Tomcat 8.0
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Program Files\Apache Software Foundation\Tomcat 8.0
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\Program Files\Apache Software Foundation\Tomcat 8.0\endorsed
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\Apache Software Foundation\Tomcat 8.0\temp
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Program Files\Apache Software Foundation\Tomcat 8.0\conf\logging.properties
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.7 using APR version 1.5.2.
+08-Jan-2018 08:08:16.937 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+08-Jan-2018 08:08:18.000 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2h  3 May 2016)
+08-Jan-2018 08:08:18.469 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+08-Jan-2018 08:08:18.484 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8019"]
+08-Jan-2018 08:08:18.500 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2666 ms
+08-Jan-2018 08:08:18.547 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+08-Jan-2018 08:08:18.547 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.36
+08-Jan-2018 08:08:18.672 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\jenkins.war
+08-Jan-2018 08:08:36.913 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Jan-2018 08:08:40.876 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\jenkins.war has finished in 22,203 ms
+08-Jan-2018 08:08:40.878 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\docs
+08-Jan-2018 08:08:40.942 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\docs has finished in 64 ms
+08-Jan-2018 08:08:40.942 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\examples
+08-Jan-2018 08:08:42.038 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\examples has finished in 1,096 ms
+08-Jan-2018 08:08:42.038 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\host-manager
+08-Jan-2018 08:08:42.144 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\host-manager has finished in 105 ms
+08-Jan-2018 08:08:42.144 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\manager
+08-Jan-2018 08:08:42.228 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\manager has finished in 83 ms
+08-Jan-2018 08:08:42.228 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT
+08-Jan-2018 08:08:42.294 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT has finished in 66 ms
+08-Jan-2018 08:08:42.325 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+08-Jan-2018 08:08:42.357 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8019"]
+08-Jan-2018 08:08:42.372 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 23872 ms
+08-Jan-2018 08:08:44.186 INFO [pool-6-thread-2] jenkins.InitReactorRunner$1.onAttained Started initialization
+08-Jan-2018 08:08:44.233 INFO [pool-6-thread-7] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+08-Jan-2018 08:08:50.847 INFO [pool-6-thread-4] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+08-Jan-2018 08:08:50.847 INFO [pool-6-thread-5] jenkins.InitReactorRunner$1.onAttained Started all plugins
+08-Jan-2018 08:08:50.894 INFO [pool-6-thread-8] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+08-Jan-2018 08:08:53.506 INFO [pool-6-thread-7] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+08-Jan-2018 08:08:54.929 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Started Download metadata
+08-Jan-2018 08:08:55.335 INFO [pool-6-thread-1] jenkins.InitReactorRunner$1.onAttained Completed initialization
+08-Jan-2018 08:08:56.430 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Finished Download metadata. 1,486 ms
+08-Jan-2018 08:08:58.463 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing org.springframework.web.context.support.StaticWebApplicationContext@5c08b342: display name [Root WebApplicationContext]; startup date [Mon Jan 08 08:08:58 IST 2018]; root of context hierarchy
+08-Jan-2018 08:08:58.463 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@5c08b342]: org.springframework.beans.factory.support.DefaultListableBeanFactory@43076848
+08-Jan-2018 08:08:58.556 INFO [Finalizing set up] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@43076848: defining beans [authenticationManager]; root of factory hierarchy
+08-Jan-2018 08:08:59.979 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing org.springframework.web.context.support.StaticWebApplicationContext@11397c64: display name [Root WebApplicationContext]; startup date [Mon Jan 08 08:08:59 IST 2018]; root of context hierarchy
+08-Jan-2018 08:08:59.979 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@11397c64]: org.springframework.beans.factory.support.DefaultListableBeanFactory@2e83aaef
+08-Jan-2018 08:08:59.979 INFO [Finalizing set up] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2e83aaef: defining beans [filter,legacy]; root of factory hierarchy
+08-Jan-2018 08:09:00.464 INFO [Jenkins initialization thread] jenkins.install.SetupWizard.init 
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+b7db8979cf6141aca1646cb641a1f987
+
+This may also be found at: C:\windows\system32\config\systemprofile\.jenkins\secrets\initialAdminPassword
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+08-Jan-2018 08:09:01.932 WARNING [Jenkins initialization thread] hudson.model.UpdateCenter.updateDefaultSite Upgrading Jenkins. Failed to update the default Update Site 'default'. Plugin upgrades may fail.
+ java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at hudson.model.DownloadService.loadJSON(DownloadService.java:179)
+	at hudson.model.UpdateSite.updateDirectlyNow(UpdateSite.java:190)
+	at hudson.model.UpdateCenter.updateDefaultSite(UpdateCenter.java:2194)
+	at jenkins.install.SetupWizard.init(SetupWizard.java:174)
+	at jenkins.install.InstallState$3.initializeState(InstallState.java:105)
+	at jenkins.model.Jenkins.setInstallState(Jenkins.java:1062)
+	at jenkins.install.InstallUtil.proceedToNextStateFrom(InstallUtil.java:96)
+	at jenkins.model.Jenkins.<init>(Jenkins.java:952)
+	at hudson.model.Hudson.<init>(Hudson.java:86)
+	at hudson.model.Hudson.<init>(Hudson.java:82)
+	at hudson.WebAppMain$3.run(WebAppMain.java:235)
+
+08-Jan-2018 08:09:02.115 INFO [Jenkins initialization thread] hudson.WebAppMain$3.run Jenkins is fully up and running
+08-Jan-2018 16:12:38.482 INFO [Fingerprint cleanup thread] hudson.model.AsyncPeriodicWork$1.run Started Fingerprint cleanup
+08-Jan-2018 16:12:38.532 INFO [Fingerprint cleanup thread] hudson.model.AsyncPeriodicWork$1.run Finished Fingerprint cleanup. 36 ms
+09-Jan-2018 01:52:26.727 INFO [Thread-7] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8080"]
+09-Jan-2018 01:52:26.805 INFO [Thread-7] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8019"]
+09-Jan-2018 01:52:26.868 INFO [Thread-7] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+09-Jan-2018 01:52:27.009 INFO [localhost-startStop-2] jenkins.model.Jenkins.cleanUp Stopping Jenkins
+09-Jan-2018 01:52:27.306 INFO [localhost-startStop-2] jenkins.model.Jenkins$21.onAttained Started termination
+09-Jan-2018 01:52:27.494 INFO [localhost-startStop-2] jenkins.model.Jenkins$21.onAttained Completed termination
+09-Jan-2018 01:52:27.494 INFO [localhost-startStop-2] jenkins.model.Jenkins._cleanUpDisconnectComputers Starting node disconnection
+09-Jan-2018 01:52:28.526 INFO [localhost-startStop-2] jenkins.model.Jenkins._cleanUpShutdownPluginManager Stopping plugin manager
+09-Jan-2018 01:52:28.526 INFO [localhost-startStop-2] jenkins.model.Jenkins._cleanUpPersistQueue Persisting build queue
+09-Jan-2018 01:52:28.588 INFO [localhost-startStop-2] jenkins.model.Jenkins._cleanUpAwaitDisconnects Waiting for node disconnection completion
+09-Jan-2018 01:52:28.588 INFO [localhost-startStop-2] jenkins.model.Jenkins.cleanUp Jenkins stopped
+09-Jan-2018 01:52:28.604 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [jenkins] appears to have started a thread named [Computer.threadPoolForRemoting [#3]] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+ java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+ java.util.concurrent.SynchronousQueue.poll(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+09-Jan-2018 01:52:28.604 SEVERE [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [jenkins] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2cfeeec4]) and a value of type [org.acegisecurity.context.SecurityContextImpl] (value [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+09-Jan-2018 01:52:28.729 INFO [Thread-7] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8080"]
+09-Jan-2018 01:52:28.807 INFO [Thread-7] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8019"]

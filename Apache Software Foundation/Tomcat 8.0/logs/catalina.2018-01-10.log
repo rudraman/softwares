@@ -1,0 +1,6 @@
+10-Jan-2018 09:20:23.316 INFO [Fingerprint cleanup thread] hudson.model.AsyncPeriodicWork$1.run Started Fingerprint cleanup
+10-Jan-2018 09:20:23.357 INFO [95] hudson.model.AsyncPeriodicWork$1.run Finished Fingerprint cleanup. 34 ms
+10-Jan-2018 14:11:12.111 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork$1.run Started Workspace clean-up
+10-Jan-2018 14:11:12.167 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork$1.run Finished Workspace clean-up. 38 ms
+10-Jan-2018 22:02:05.442 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Started Download metadata
+10-Jan-2018 22:02:06.059 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Finished Download metadata. 607 ms

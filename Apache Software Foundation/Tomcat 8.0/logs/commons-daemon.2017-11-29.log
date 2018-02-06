@@ -1,0 +1,33 @@
+[2017-11-29 15:20:21] [info]  [ 9724] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-29 15:20:21] [info]  [ 9724] Service Tomcat8 name Apache Tomcat 8.0 Tomcat8
+[2017-11-29 15:20:21] [info]  [ 9724] Service 'Tomcat8' installed
+[2017-11-29 15:20:21] [info]  [ 9724] Commons Daemon procrun finished
+[2017-11-29 15:20:22] [info]  [ 9668] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-29 15:20:22] [info]  [ 9668] Updating service...
+[2017-11-29 15:20:22] [info]  [ 9668] Service 'Tomcat8' updated
+[2017-11-29 15:20:22] [info]  [ 9668] Update service finished.
+[2017-11-29 15:20:22] [info]  [ 9668] Commons Daemon procrun finished
+[2017-11-29 15:20:26] [info]  [13876] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-29 15:20:26] [info]  [13876] Updating service...
+[2017-11-29 15:20:26] [info]  [13876] Service 'Tomcat8' updated
+[2017-11-29 15:20:26] [info]  [13876] Update service finished.
+[2017-11-29 15:20:26] [info]  [13876] Commons Daemon procrun finished
+[2017-11-29 15:20:26] [info]  [ 4532] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-29 15:20:26] [info]  [ 4532] Updating service...
+[2017-11-29 15:20:26] [info]  [ 4532] Service 'Tomcat8' updated
+[2017-11-29 15:20:26] [info]  [ 4532] Update service finished.
+[2017-11-29 15:20:26] [info]  [ 4532] Commons Daemon procrun finished
+[2017-11-29 15:20:27] [info]  [ 6688] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-29 15:20:27] [info]  [ 6688] Updating service...
+[2017-11-29 15:20:27] [info]  [ 6688] Service 'Tomcat8' updated
+[2017-11-29 15:20:27] [info]  [ 6688] Update service finished.
+[2017-11-29 15:20:27] [info]  [ 6688] Commons Daemon procrun finished
+[2017-11-29 18:51:38] [info]  [ 2552] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-29 18:51:39] [info]  [ 2552] Running 'Tomcat8' Service...
+[2017-11-29 18:51:39] [info]  [ 3088] Starting service...
+[2017-11-29 18:51:41] [info]  [ 3088] Service started in 1531 ms.
+[2017-11-30 02:04:36] [info]  [ 7912] Console SHUTDOWN event signaled
+[2017-11-30 02:04:36] [info]  [ 7912] Stopping service...
+[2017-11-30 02:04:37] [info]  [ 7912] Service stop thread completed.
+[2017-11-30 02:04:37] [info]  [ 2552] Run service finished.
+[2017-11-30 02:04:37] [info]  [ 2552] Commons Daemon procrun finished

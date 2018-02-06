@@ -1,0 +1,8 @@
+28-Dec-2017 08:10:20.858 INFO [Fingerprint cleanup thread] hudson.model.AsyncPeriodicWork$1.run Started Fingerprint cleanup
+28-Dec-2017 08:10:20.859 INFO [Connection Activity monitoring to agents thread] hudson.model.AsyncPeriodicWork$1.run Started Connection Activity monitoring to agents
+28-Dec-2017 08:10:20.900 INFO [177] hudson.model.AsyncPeriodicWork$1.run Finished Connection Activity monitoring to agents. 28 ms
+28-Dec-2017 08:10:20.910 INFO [176] hudson.model.AsyncPeriodicWork$1.run Finished Fingerprint cleanup. 38 ms
+28-Dec-2017 08:13:52.855 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Started Download metadata
+28-Dec-2017 08:13:54.122 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Finished Download metadata. 1,264 ms
+28-Dec-2017 21:58:20.363 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork$1.run Started Workspace clean-up
+28-Dec-2017 21:58:20.377 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork$1.run Finished Workspace clean-up. 9 ms
